@@ -9,8 +9,8 @@ int main()
     scanf("%d", &L);
     printf("\nDigite o Comprimento: ");
     scanf("%d", &C);
-    int soma = L * C;
-    printf("\nA area da Sala eh: %d",soma);
+    int area = L * C;
+    printf("\nA area da Sala eh: %d",area);
      printf(" m2");
    return 0;
 }

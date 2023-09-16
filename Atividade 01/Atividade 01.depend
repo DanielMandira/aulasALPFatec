@@ -1,7 +1,9 @@
 # depslib dependency file v1.0
-1694828037 source:c:\users\dsm1\desktop\atividades\dsm1\alp\atividade 01\main.c
+1694829395 source:c:\users\dsm1\desktop\atividades\dsm1\alp\atividade 01\main.c
 	<stdio.h>
 	<stdlib.h>
 
-1694827903 source:c:\users\dsm1\desktop\atividades\dsm1\alp\atividade 01\exc-01.c
+1694829389 source:c:\users\dsm1\desktop\atividades\dsm1\alp\atividade 01\exc-01.c
+	<stdio.h>
+	<stdlib.h>
 
