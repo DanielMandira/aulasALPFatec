@@ -34,6 +34,12 @@
 		<Unit filename="exc-01.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="exc-02.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc-03.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

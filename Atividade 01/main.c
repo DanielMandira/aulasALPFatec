@@ -3,16 +3,14 @@
 
 int main()
 {
-    int L;
-    int C;
-    printf("Calcule a Area e o perimetro da Sala\nDigite a Largura: ");
-    scanf("%d", &L);
-    printf("\nDigite o Comprimento: ");
-    scanf("%d", &C);
-    int area = L * C;
-    int perimetro = 2*(L+C);
-    printf("\nA area da Sala eh: %d",area);
-     printf(" m2");
-     printf("\nO Preimetro da sala eh %d",perimetro);
+    double desconto = 0.05;
+    double valor;
+    printf("Calcule o valor do Desconto: ");
+    printf("\nDigite o valor: ");
+    scanf("%lf", &valor);
+    double vlDesconto = (valor * desconto);
+    double vlFinal = (valor - vlDesconto);
+    printf("\nO valor de desconto eh de: R$ %.2lf", vlDesconto);
+    printf("\nO valor final sera de: R$ %.2lf", vlFinal);
    return 0;
 }
