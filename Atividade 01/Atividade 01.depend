@@ -15,9 +15,10 @@
 	<stdio.h>
 	<stdlib.h>
 
-1695150008 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 01\main.c
+1695227848 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 01\main.c
 	<stdio.h>
 	<stdlib.h>
+	<math.h>
 
 1695158424 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 01\exc-01.c
 	<stdio.h>
@@ -44,6 +45,22 @@
 	<stdlib.h>
 
 1695174368 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 01\exc-06.c
+	<stdio.h>
+	<stdlib.h>
+
+1695150443 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 01\exc-03.c
+	<stdio.h>
+	<stdlib.h>
+
+1695224995 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 01\exc-04.c
+	<stdio.h>
+	<stdlib.h>
+
+1695224995 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 01\exc-05.c
+	<stdio.h>
+	<stdlib.h>
+
+1695224995 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 01\exc-06.c
 	<stdio.h>
 	<stdlib.h>
 
