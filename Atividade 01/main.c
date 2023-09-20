@@ -3,14 +3,12 @@
 
 int main()
 {
-    double desconto = 0.05;
-    double valor;
-    printf("Calcule o valor do Desconto: ");
-    printf("\nDigite o valor: ");
-    scanf("%lf", &valor);
-    double vlDesconto = (valor * desconto);
-    double vlFinal = (valor - vlDesconto);
-    printf("\nO valor de desconto eh de: R$ %.2lf", vlDesconto);
-    printf("\nO valor final sera de: R$ %.2lf", vlFinal);
-   return 0;
+    double r;
+    double pi = 3.14159;
+    printf("Calcule o volume da esfera\nDigite o valor do raio: ");
+    scanf("%lf",&r);
+    double vol = (pi* pow(2,r));
+    printf("\nO volume da esfera eh de: %.2lf", vol);
+    printf("metros cubicos");
+    return 0;
 }
