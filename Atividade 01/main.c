@@ -3,12 +3,18 @@
 #include <math.h>
 int main()
 {
-    double r;
-    double pi = 3.14159;
-    printf("Calcule o volume da esfera\nDigite o valor do raio em CM: ");
-    scanf("%lf",&r);
-    double vol = (4 * pi * pow(r,3)/3);
-    printf("\nO volume da esfera eh de: %.2lf", vol);
-    printf(" cm3");
+    double valor, horaE, horaS, minE, minS, taxa;
+    taxa = 0,066;
+    printf("Calcule o valor do estacionamento\nDigite apenas a Hora de entrada 'Padrão 24h': ");
+    scanf("%lf", &horaE);
+    printf("Digite os minutos de entrada: ");
+    scanf("%lf", &minE);
+    printf("\nDigite apenas a Hora de saida 'Padrão 24h': ");
+    scanf("%lf", &horaS);
+    printf("Digite os minutos de saida: ");
+    scanf("%lf", &minS);
+    valor = ((((horaS - horaE)*4) + (minS-minE)* taxa));
+    printf("O valor do estacionamento sera de: %0.2lf", valor);
     return 0;
+
 }

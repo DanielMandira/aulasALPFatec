@@ -49,6 +49,21 @@
 		<Unit filename="exc-06.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="exc-07.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc-09.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc-10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc-11.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc-12.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
