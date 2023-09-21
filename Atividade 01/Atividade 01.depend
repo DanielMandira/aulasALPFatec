@@ -36,9 +36,10 @@
 	<stdio.h>
 	<stdlib.h>
 
-1695174979 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 01\main.c
+1695337882 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 01\main.c
 	<stdio.h>
 	<stdlib.h>
+	<math.h>
 
 1695162421 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 01\exc-05.c
 	<stdio.h>
@@ -85,6 +86,31 @@
 	<math.h>
 
 1695318891 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 01\exc-12.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1695337379 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 01\exc-07.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1695337379 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 01\exc-09.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1695337379 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 01\exc-10.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1695337379 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 01\exc-11.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1695337379 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 01\exc-12.c
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
