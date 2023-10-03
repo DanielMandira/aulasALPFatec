@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <ctype.h>
 int exc05()
 {
     int n = 0 , modulo = 0;

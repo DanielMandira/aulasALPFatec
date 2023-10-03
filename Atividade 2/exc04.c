@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <ctype.h>
 int exc04()
 {
     double vg = 0,
@@ -10,12 +10,13 @@ int exc04()
     scanf("%lf", &ct);
     printf("Digite o tipo de combustivel do carro: \n'G' -> Gasolina \n'A' -> Alcool\n");
     scanf("%s", &tc);
+    tc = toupper(tc);
     switch(tc){
-    case 'g':
+    case 'G':
         vg = ct*1.80;
         printf("O valor gasto de gasolina eh: %.2lf", vg);
         break;
-    case 'a':
+    case 'A':
         vg = ct * 1.00;
         printf("O valor gasto de alcool eh: %.2lf", vg);
         break;

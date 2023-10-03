@@ -1,21 +1,75 @@
 # depslib dependency file v1.0
-1696210360 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\main.c
+1696358795 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1696352438 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc01.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1696352440 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc02.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1696352471 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc03.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1696352497 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc04.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1696352507 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc05.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1696352512 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc06.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1696358475 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc07.c
 	<stdio.h>
 	<stdlib.h>
 
-1696207732 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc01.c
+1696358467 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc08.c
 	<stdio.h>
 	<stdlib.h>
+	<ctype.h>
 
-1696208022 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc02.c
+1696358459 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc09.c
 	<stdio.h>
 	<stdlib.h>
+	<ctype.h>
 
-1696209260 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc03.c
+1696354932 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc10.c
 	<stdio.h>
 	<stdlib.h>
+	<ctype.h>
 
-1696209990 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc04.c
+1696355306 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc11.c
 	<stdio.h>
 	<stdlib.h>
+	<ctype.h>
+
+1696358426 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc12.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1696357648 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc13.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1696358727 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 2\exc14.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
 

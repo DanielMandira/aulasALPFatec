@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
-int main()
+int exc14()
 {
     int ht = 0;
     double vh = 0,
@@ -14,22 +14,7 @@ int main()
     printf("Digite o valor da hora: R$");
     scanf("%lf", &vh);
     salBrut = ht * vh;
-    if(salBrut<=800.45){
-        INSS = salBrut * 0.0765;
-    }
-    else if(salBrut > 800.45 && salBrut <= 900.00){
-        INSS = salBrut * 0.0865;
-    }
-    else if(salBrut > 900.00 && salBrut<=1334.07){
-        INSS = salBrut * 0.09;
-    }
-    else if(salBrut > 1334.07 && salBrut <= 2668.15){
-        INSS = salBrut * 0.11;
-    }
-    else{
-        INSS = 293.5;
-    }
-
+    INSS = salBrut * 0.11;
     if(salBrut-INSS <= 1257.12){
         impRenda = 0 * (salBrut - INSS) - 0;
         salLiq = salBrut - INSS - impRenda;
@@ -47,3 +32,4 @@ int main()
     }
     return 0;
 }
+

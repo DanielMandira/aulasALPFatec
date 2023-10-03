@@ -46,6 +46,36 @@
 		<Unit filename="exc05.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="exc06.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc07.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc08.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc09.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc11.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc12.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc13.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc14.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc15.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
