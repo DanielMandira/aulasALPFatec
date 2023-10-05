@@ -9,7 +9,8 @@ int exc07()
     scanf("%s", &nome);
     printf("Digite o valor de venda do mes: R$");
     scanf("%lf",&vm);
-    if(vm>=10000 && vm<=50000){
+    if(vm>=10000 && vm<=50000)
+    {
         printf("%s", nome);
     }
     return 0;

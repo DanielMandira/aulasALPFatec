@@ -3,7 +3,7 @@
 #include <ctype.h>
 int exc05()
 {
-    int n = 0 , modulo = 0;
+    int n = 0, modulo = 0;
     printf("Digite um numero inteiro Positivo ou Negativo: ");
     scanf("%d", &n);
     modulo = abs(n);

@@ -4,14 +4,15 @@
 int exc04()
 {
     double vg = 0,
-    ct = 0;
+           ct = 0;
     char tc;
     printf("Digite a capacidade do tanque 'em litros' do carro: ");
     scanf("%lf", &ct);
     printf("Digite o tipo de combustivel do carro: \n'G' -> Gasolina \n'A' -> Alcool\n");
     scanf("%s", &tc);
     tc = toupper(tc);
-    switch(tc){
+    switch(tc)
+    {
     case 'G':
         vg = ct*1.80;
         printf("O valor gasto de gasolina eh: %.2lf", vg);

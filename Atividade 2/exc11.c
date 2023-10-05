@@ -7,16 +7,17 @@ int exc11()
     printf("Digite o Codigo do livro: ");
     scanf(" %c", &cl);
     cl = toupper(cl);
-    switch(cl){
-        case 'A':
-            printf("Categoria: Ficcao");
-            break;
-        case 'B':
-            printf("Categoria: Nao-Ficcao");
-            break;
-        default:
-            printf("Invalido!");
-            break;
+    switch(cl)
+    {
+    case 'A':
+        printf("Categoria: Ficcao");
+        break;
+    case 'B':
+        printf("Categoria: Nao-Ficcao");
+        break;
+    default:
+        printf("Invalido!");
+        break;
     }
     return 0;
 }

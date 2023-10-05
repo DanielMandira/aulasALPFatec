@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
-int main()
+int exc17()
 {
     double pr = 0;
     int co = 0;
@@ -32,3 +32,4 @@ int main()
     }
     return 0;
 }
+

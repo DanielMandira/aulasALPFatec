@@ -11,7 +11,8 @@ int exc03()
     printf("Digite o Sexo\n'F' -> Feminino\n'M' -> Masculino\n");
     scanf("%s",&s);
     s = toupper(s);
-    switch(s){
+    switch(s)
+    {
     case 'F':
         p=(62.1*h)-44.7;
         printf("O peso ideal do sexo feminino para sua altura eh: %.2lf",p);

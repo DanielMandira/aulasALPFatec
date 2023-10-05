@@ -13,8 +13,10 @@ int exc08()
     dep = toupper(dep);
     printf("Digite o Salario do Funcioanrio: R$");
     scanf("%lf", &sal);
-    if(sal>=1000 && sal <=1500){
-        switch(dep){
+    if(sal>=1000 && sal <=1500)
+    {
+        switch(dep)
+        {
         case 'P':
             printf("Nome: %s", nf);
             printf("\nDepartamento: Producao \nSalario: %.2lf", sal);
@@ -28,7 +30,8 @@ int exc08()
             break;
         }
     }
-    else{
+    else
+    {
         printf("Salario fora dos paramentros!");
     }
     return 0;

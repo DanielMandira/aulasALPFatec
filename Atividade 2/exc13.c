@@ -4,11 +4,11 @@
 int exc13()
 {
     double caixa = 0,
-    pr = 0,
-    vtCompra = 0,
-    vtVista = 0,
-    percent = 0,
-    vtPrazo = 0;
+           pr = 0,
+           vtCompra = 0,
+           vtVista = 0,
+           percent = 0,
+           vtPrazo = 0;
     int qtd = 0;
     printf("Digite o total em caixa: R$");
     scanf("%lf", &caixa);
@@ -18,11 +18,13 @@ int exc13()
     scanf("%d", &qtd);
     vtCompra = pr * qtd;
     percent = vtCompra / caixa;
-    if(percent > 0.8){
+    if(percent > 0.8)
+    {
         vtPrazo = vtCompra * 1.10;
         printf("A compra sera realizada a prazo \nO valor total da compra sera de: R$%.2lf", vtPrazo);
     }
-    else{
+    else
+    {
         vtVista = vtCompra - (vtCompra * 0.1);
         printf("A compra sera realizada a vista \nO valor total da compra sera de: R$%.2lf",vtVista);
     }
