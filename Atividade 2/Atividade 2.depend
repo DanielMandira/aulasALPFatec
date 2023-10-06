@@ -98,7 +98,7 @@
 	<stdlib.h>
 	<ctype.h>
 
-1696546097 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 2\exc04.c
+1696632830 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 2\exc04.c
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>
@@ -167,7 +167,7 @@
 	<stdlib.h>
 	<ctype.h>
 
-1696549239 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 2\main.c
+1696634278 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 2\main.c
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>
@@ -180,6 +180,36 @@
 	<time.h>
 
 1696549266 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 2\exc19.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
+1696629728 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 2\exc20.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
+1696630166 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 2\exc21.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
+1696630867 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 2\exc22.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
+1696632737 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 2\exc23.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
+1696633731 source:c:\users\dsm1\desktop\atividades\dsm1\aulasalpfatec\atividade 2\exc24.c
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>

@@ -88,6 +88,24 @@
 		<Unit filename="exc19.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="exc20.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc21.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc22.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc23.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc24.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc25.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

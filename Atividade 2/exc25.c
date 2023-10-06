@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <time.h>
-int main()
+int exc25()
 {
     int he = 0,
         me = 0,
@@ -69,3 +69,4 @@ int main()
     }
     return 0;
 }
+
