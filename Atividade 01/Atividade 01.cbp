@@ -52,6 +52,9 @@
 		<Unit filename="exc-07.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="exc-08.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="exc-09.c">
 			<Option compilerVar="CC" />
 		</Unit>

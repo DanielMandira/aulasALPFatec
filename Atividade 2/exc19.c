@@ -2,14 +2,14 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <time.h>
-int main()
+int exc19()
 {
     int diaNasc = 0,
         mesNasc = 0,
         anoNasc = 0,
         diaHoje = 0,
         mesHoje = 0,
-        anoHoje = 0,
+        anoHoje =0,
         idadeAno = 0,
         idadeMes = 0,
         idadeDia = 0;

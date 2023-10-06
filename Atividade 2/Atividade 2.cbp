@@ -82,6 +82,12 @@
 		<Unit filename="exc17.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="exc18.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc19.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
