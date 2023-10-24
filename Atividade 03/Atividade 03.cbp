@@ -31,9 +31,6 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="exc 04.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="exc01.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -41,6 +38,9 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="exc03.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc04.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="exc05.c">
@@ -88,7 +88,19 @@
 		<Unit filename="exc19.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="exc20.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc21.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exc22.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="teste.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

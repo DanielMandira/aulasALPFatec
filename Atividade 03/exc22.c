@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
+int exc22()
 {
     int cont = 0,
     quantidade = 0;
@@ -44,4 +44,5 @@ int main()
 
     return 0;
 }
+
 
