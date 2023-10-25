@@ -97,6 +97,9 @@
 		<Unit filename="exc22.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="exc23.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

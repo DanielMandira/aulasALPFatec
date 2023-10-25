@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1698167876 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 03\main.c
+1698255595 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 03\main.c
 	<stdio.h>
 	<stdlib.h>
 
@@ -92,6 +92,10 @@
 	<stdlib.h>
 
 1698166885 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 03\exc21.c
+	<stdio.h>
+	<stdlib.h>
+
+1698168152 source:c:\users\daniel\desktop\ds\fatec\aulasalpfatec\atividade 03\exc22.c
 	<stdio.h>
 	<stdlib.h>
 
